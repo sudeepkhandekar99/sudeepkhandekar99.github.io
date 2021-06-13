@@ -140,7 +140,7 @@ const techStack = {
       progressPercentage: "95%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Data analysis and machine learning",
+      Stack: "Data analysis and MLOps",
       progressPercentage: "80%"
     },
     {
