@@ -15,7 +15,7 @@ const greeting = {
     "I like working around data. Analysing data or making a machine learning model to work with the data is something I enjoy doing. In my free time, I practice competitive programming or chess. Also, I am a freelance web developer!"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1xsmP8EveLOgVpx4JCla_8nieelJ-ESSP/view?usp=sharing",
+    "https://drive.google.com/file/d/1lYEHInOV8Yo9Ppdn51TAGILtzClq5HUB/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
