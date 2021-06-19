@@ -12,7 +12,7 @@ const greeting = {
   username: "sudeep",
   title: "Hi all, I'm Sudeep",
   subTitle: emoji(
-    "I like working around data. Analysing data or making a machine learning model to work with the data is something I enjoy doing. In my free time, I practice competitive programming or chess. Also, I am a freelance web developer!"
+    "Experienced Web and Python Developer with over 2 years of experience in Software Development. CTO at The Blessed Wardrobe. Freelancer on Fiverr and GitHub. Currently discovering the world of Data Science/Analytics."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1lYEHInOV8Yo9Ppdn51TAGILtzClq5HUB/view?usp=sharing",
