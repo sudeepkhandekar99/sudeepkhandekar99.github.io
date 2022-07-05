@@ -15,7 +15,7 @@ const greeting = {
     "Experienced Web and Python Developer with over 2 years of experience in Software Development. CTO at The Blessed Wardrobe. Freelancer on Fiverr and GitHub. Currently discovering the world of Data Science/Analytics."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1dtt--Nr7fJGAGo19jlOn82g5uNHbewW6/view?usp=sharing",
+    "https://drive.google.com/file/d/1CaWikk-Z3NlWXQ7C8MRYyZyVQNj6uEA0/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
