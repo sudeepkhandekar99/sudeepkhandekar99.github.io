@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9f994a30adab2dad87487dc3edc2437",
+    "revision": "0505b2fccc9c842d2c8bf2853650bde2",
     "url": "/index.html"
   },
   {
-    "revision": "35b51a5348d16830511d",
-    "url": "/static/css/3.3a26ebde.chunk.css"
+    "revision": "354641e8a135812045b0",
+    "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "2b468611b3bc7d67524e",
-    "url": "/static/css/4.ea3dbbf2.chunk.css"
+    "revision": "ad2b8a5bdcbfb9a11336",
+    "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "f08a59c8547f1213e1ad",
-    "url": "/static/css/main.49bf036e.chunk.css"
+    "revision": "9c00afac510f0f977002",
+    "url": "/static/css/main.bc9355ab.chunk.css"
   },
   {
     "revision": "66ea1f0f46f374b12528",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.e03723d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35b51a5348d16830511d",
+    "revision": "354641e8a135812045b0",
     "url": "/static/js/3.7d91450d.chunk.js"
   },
   {
-    "revision": "2b468611b3bc7d67524e",
+    "revision": "ad2b8a5bdcbfb9a11336",
     "url": "/static/js/4.573a7d53.chunk.js"
   },
   {
-    "revision": "f08a59c8547f1213e1ad",
-    "url": "/static/js/main.b6df8256.chunk.js"
+    "revision": "9c00afac510f0f977002",
+    "url": "/static/js/main.29adb7ec.chunk.js"
   },
   {
-    "revision": "29c64e1315ec2e9331ac",
-    "url": "/static/js/runtime-main.99975704.js"
+    "revision": "0df3a035cf4e8fb94e84",
+    "url": "/static/js/runtime-main.dbcfc949.js"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "39eff4a91b01e00a32cb78f3797eec88",
-    "url": "/static/media/talksCardBack.39eff4a9.svg"
+    "revision": "13780cdd0144cacdef25486e2c2503f8",
+    "url": "/static/media/talksCardBack.13780cdd.svg"
   },
   {
     "revision": "0edb7cd159c2f7a10b0ef9c9c73ada91",
